@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @JayMarvinQuiambao
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning MERN Stack
-- 🎉 Just finished my bug tracking app
-- 😍 Profile: <a href="https://jaymarvinquiambao.dev/" target="_blank">Profile</a>
+- 🌱 MERN/MEAN Stack
+- 😍 Profile: <a href="https://jaymarvinquiambao.github.io/my-portfolio/" target="_blank">Profile</a>
 - 🐞 Bug Tracking App: <a href="https://bugpack.dev/" target="_blank">BugPack</a>
 - 📫 How to reach me (jay.marvin.quiambao@gmail.com)
+- Fiverr: https://www.fiverr.com/jaelbridge?public_mode=true
 
 <!---
 JayMarvinQuiambao/JayMarvinQuiambao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
